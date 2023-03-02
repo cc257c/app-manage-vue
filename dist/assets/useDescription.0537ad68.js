@@ -1,0 +1,1 @@
+import{aq as c,s as t,i as n,d_ as i}from"./index.da8cb631.js";function f(s){if(!c())throw new Error("useDescription() can only be used inside setup() or functional components!");const o=t(null),r=t(!1);function u(e){n(r)&&i()||(o.value=e,s&&e.setDescProps(s),r.value=!0)}return[u,{setDescProps:e=>{n(o)?.setDescProps(e)}}]}export{f as u};
